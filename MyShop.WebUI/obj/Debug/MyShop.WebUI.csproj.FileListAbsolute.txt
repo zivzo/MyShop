@@ -106,3 +106,11 @@ C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.cspro
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.csproj.CopyComplete
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.dll
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\obj\Debug\MyShop.WebUI.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.Core.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.InMemory.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.Services.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.Core.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.InMemory.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.DataAccess.SQL.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI\bin\MyShop.Services.pdb

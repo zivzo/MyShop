@@ -55,3 +55,7 @@ C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.csproj.CopyComplete
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.dll
 C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\obj\Debug\MyShop.WebUI.Tests.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.dll
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.DataAccess.InMemory.pdb
+C:\Users\ZivZorero\source\repos\MyShop\MyShop.WebUI.Tests\bin\Debug\MyShop.Core.pdb
